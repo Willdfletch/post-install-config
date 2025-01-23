@@ -63,4 +63,12 @@ Configure SLA: (Service Level Agreement)
 
 ![image](https://github.com/user-attachments/assets/30da2e44-b2d8-4947-91de-597d48063600)
 
+Configure Help Topics: (for when users create a ticket)
+ - Admin Panel -> Manage -> Help Topics
+
+![image](https://github.com/user-attachments/assets/67b2cb83-dcc4-4111-b1de-ffb270a38dc6)
+
+Here you can create Help Topics for your Users to sort and organize their tickets into. 
+
+<h1>And with a bit of configuration, your osTicket system should be complete!</h1>
 
